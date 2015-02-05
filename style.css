@@ -1,0 +1,30 @@
+	html {
+	background: lightcoral;
+	}
+	
+	body {
+	font-size: 18px;
+	font-family: 'Calibri';
+	margin: 0 auto; 
+	width: 1000px;
+	text-align:center;
+	}
+	
+	h1, h2 {
+	color: lightblue;
+	} 
+	
+	h3 {
+	color: indianred;
+	
+	}
+	
+	
+	img {
+	width: 25%
+	}
+	
+	p {
+	text-align:center
+	}
+	
